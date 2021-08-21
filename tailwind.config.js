@@ -6,6 +6,7 @@ module.exports = {
     extend: {
       fontFamily: {
         Lato: "Lato",
+        Playfair: "Playfair Display",
       },
       textColor: {
         primary: "#1F1F1F",
